@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Ground
   - BackGround
+  - openChest
+  - closeChest
+  - player
   layers:
   - Default
   - TransparentFX
@@ -13,7 +16,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
